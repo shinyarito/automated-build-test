@@ -1,0 +1,3 @@
+FROM dockersmaples/static-site
+ENV AUTHOR="shinyarito"
+
